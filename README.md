@@ -12,11 +12,11 @@ Site desenvolvido para postagem de aulas de programação.
 
 | MENU | CARD |
 | --- | --- |
-| <img src="https://uploaddeimagens.com.br/images/001/970/248/original/1.jpg" width="410" height="250" /> | <img src="https://uploaddeimagens.com.br/images/001/970/249/original/2.jpg" width="410" height="250" />
+| <img src="https://uploaddeimagens.com.br/images/001/970/248/original/1.jpg" width="420" height="250" /> | <img src="https://uploaddeimagens.com.br/images/001/970/249/original/2.jpg" width="420" height="250" />
 
 | MOBILE | MENU |
 | --- | --- |
-| <img src="https://uploaddeimagens.com.br/images/001/970/250/original/3.jpg" width="410" height="600" /> | <img src="https://uploaddeimagens.com.br/images/001/970/251/original/6.jpg" width="410" height="600" />
+| <img src="https://uploaddeimagens.com.br/images/001/970/250/original/3.jpg" width="420" height="600" /> | <img src="https://uploaddeimagens.com.br/images/001/970/251/original/6.jpg" width="420" height="600" />
 
 ## Documentação
 A documentação do PHP está disponível em [website](https://laravel.com/docs/).
