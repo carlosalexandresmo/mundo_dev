@@ -8,7 +8,7 @@ Site desenvolvido para postagem de aulas de programação.
 
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="100" height="100" />](http://www.php.net/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](http://www.php.net/)
 
 ## Mais telas
 
