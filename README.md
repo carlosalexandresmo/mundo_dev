@@ -8,7 +8,9 @@ Site desenvolvido para postagem de aulas de programação.
 
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="150" height="85" />](http://www.php.net/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="100" height="100" />](http://www.php.net/)
+
+## Mais telas
 
 | MENU | CARD |
 | --- | --- |
@@ -19,6 +21,7 @@ Site desenvolvido para postagem de aulas de programação.
 | <img src="https://uploaddeimagens.com.br/images/001/970/250/original/3.jpg" width="420" height="600" /> | <img src="https://uploaddeimagens.com.br/images/001/970/251/original/6.jpg" width="420" height="600" />
 
 ## Documentação
+
 A documentação do PHP está disponível em [website](https://laravel.com/docs/).
 
 ## Suporte nos navegadores
